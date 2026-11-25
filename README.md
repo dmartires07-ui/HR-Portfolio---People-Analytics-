@@ -2,19 +2,19 @@ HR Analytics Portfolio Project
 
 Project Overview
 
-This repository presents an end-to-end HR Analytics project developed to explore workforce data, identify relevant HR trends and generate business insights through data analysis and visualisation.
+This repository presents an end-to-end HR Analytics project developed to explore workforce data, identify relevant HR trends and generate meaningful business insights through data analysis and visualisation.
 
-The project uses a shared HR dataset to investigate different aspects of workforce management, including employee demographics, salary distribution, departmental structure, employee satisfaction, performance and workforce turnover.
+The project uses a shared synthetic HR dataset to investigate different aspects of workforce management, including employee demographics, salary distribution, departmental structure, employee satisfaction, performance and workforce turnover.
 
-The investigation is divided into three complementary analytical components, each using a different technology:
+The investigation is divided into three complementary analytical components, each using a different technology.
 
 1. SQL – Data Exploration and Analysis
 
-SQL was used to query, filter, join and aggregate HR data. This component demonstrates the ability to retrieve relevant information from structured datasets and calculate key workforce metrics.
+SQL was used to query, filter, join and aggregate HR data. This component demonstrates the use of relational databases to explore structured datasets, perform data-quality checks and calculate key workforce metrics.
 
 2. Python – Data Analysis and Statistical Exploration
 
-Python was used for data preparation, cleaning, manipulation, statistical analysis and data visualisation. Using libraries such as Pandas, NumPy, Matplotlib and Seaborn, the project explores workforce patterns and identifies potential relationships between HR indicators.
+Python was used for data preparation, cleaning, manipulation, statistical analysis and data visualisation. Using libraries such as Pandas, NumPy, Matplotlib and Seaborn, the project explores workforce patterns and potential relationships between HR indicators.
 
 3. Microsoft Power BI – Data Visualisation and Reporting
 
@@ -30,7 +30,7 @@ Repository Structure
 
 data/ – Source dataset used throughout the HR Analytics project.
 
-sql/ – SQL queries and analytical exercises.
+sql/ – SQL scripts, queries and technical documentation.
 
 python/ – Python notebook, code and visualisations.
 
@@ -39,6 +39,8 @@ power-bi/ – Power BI dashboard and supporting screenshots.
 reports/ – Business reports and project documentation.
 
 Tools and Technologies
+
+PostgreSQL
 
 SQL
 
@@ -61,3 +63,5 @@ Microsoft Excel
 Final Outcome
 
 This project demonstrates the application of data analytics techniques to a Human Resources context, highlighting how workforce information can be transformed into meaningful insights to support more informed business decisions.
+
+Note: The dataset used in this portfolio is synthetic and intended for educational and demonstration purposes. The findings do not represent a real organisation.
