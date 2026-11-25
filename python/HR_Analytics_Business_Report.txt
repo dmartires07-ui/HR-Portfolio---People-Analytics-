@@ -1,0 +1,58 @@
+
+==========================================================
+              HR ANALYTICS BUSINESS REPORT
+==========================================================
+
+1. WORKFORCE OVERVIEW
+--------------------
+Total employees: 500
+Active employees: 403
+Terminated employees: 97
+
+2. COMPENSATION
+---------------
+Average annual salary: €37,615.76
+Highest average salary department: Technology
+
+3. EMPLOYEE EXPERIENCE
+----------------------
+Average satisfaction score: 3.37/5
+Average performance rating: 3.15
+
+4. EMPLOYEE RETENTION
+---------------------
+Average employee tenure: 2.26 years
+Department with highest historical termination proportion:
+Marketing
+
+5. HR RECOMMENDATIONS
+---------------------
+
+- Investigate departments with higher historical termination
+  proportions to understand potential retention challenges.
+
+- Review employee satisfaction across departments and
+  investigate areas with lower scores.
+
+- Evaluate compensation differences between departments
+  and assess whether they are consistent with job roles
+  and responsibilities.
+
+- Monitor employee tenure and identify opportunities
+  to improve onboarding and employee development.
+
+6. CONCLUSION
+-------------
+
+This analysis provides an overview of workforce composition,
+compensation, satisfaction, performance and employee
+departures.
+
+The findings can help HR management identify areas for
+further investigation and develop evidence-based HR strategies.
+
+Note: This project uses synthetic data. The findings are
+illustrative and should not be interpreted as conclusions
+about a real organisation.
+
+==========================================================
